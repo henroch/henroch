@@ -18,7 +18,6 @@ Estatísticas atualizadas a partir dos repositórios públicos:
   <img
     height="165"
     alt="Estatísticas do GitHub"
-    src="https://github-readme-stats.vercel.app/api?username=henroch&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=false"
   />
   <img
     height="165"
