@@ -17,7 +17,6 @@ Estatísticas atualizadas a partir dos repositórios públicos:
 <p align="center">
   <img
     height="165"
-    alt="Estatísticas do GitHub"
   />
   <img
     height="165"
